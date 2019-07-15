@@ -9,8 +9,9 @@ Python 3
 ![Architecture](./Architecture.png)
 
 ## Parameters
-Prod
-Non-Prod
+### Prod
+### Non-Prod
+### All-Servers
 
 ### NEXT SECTION
 
