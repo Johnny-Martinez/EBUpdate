@@ -13,8 +13,6 @@ Python 3
 ### -Non-Prod
 ### -All-Servers
 
-### NEXT SECTION
-
 ## NEXT SECTION
 
 
